@@ -222,3 +222,5 @@ __marimo__/
 *.tsv
 datasets/
 neuralmind/
+
+distilbert-base-uncased-fine-tuned-sa-db/
