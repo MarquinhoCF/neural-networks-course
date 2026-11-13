@@ -1,0 +1,60 @@
+Materiais Extras
+
+Métodos Tradicionais de Aprendizagem de Máquina
+Slides Baeza-Yates - Classificação de Textos -> Arquivo: `0 - Materiais Extras/Métodos Tradicionais de Aprendizagem de Máquina.pdf`
+
+
+Por que codificar rótulos de atributos? Label Encoding vs. One-Hot Encoding: Making Sense of Categorical Data
+https://medium.com/aimonks/label-encoding-vs-one-hot-encoding-making-sense-of-categorical-data-1181914501f3
+
+
+Codificação de rótulo de classe com a função de perda Categorical Cross-Entropy: Categorical Cross-Entropy in Multi-Class Classification
+https://www.geeksforgeeks.org/deep-learning/categorical-cross-entropy-in-multi-class-classification/
+
+
+Scaling and Normalization
+https://medium.com/@ebimsv/ml-series-day-47-scaling-and-normalization-073e6a10fa7b
+
+
+A Beginner’s Guide to Vector Embeddings
+https://www.tigerdata.com/blog/a-beginners-guide-to-vector-embeddings
+
+
+Text Embeddings: Comprehensive Guide
+https://towardsdatascience.com/text-embeddings-comprehensive-guide-afd97fce8fb5/
+
+
+Vector Databases for AI
+https://www.datacamp.com/blog/the-top-5-vector-databases
+
+
+LLM Distillation Explained: Applications, Implementation & More
+https://www.datacamp.com/blog/distillation-llm
+
+
+Distilling step-by-step
+https://research.google/blog/distilling-step-by-step-outperforming-larger-language-models-with-less-training-data-and-smaller-model-sizes/
+
+
+LLM4Gov: A Privacy-Preserving Approach to Teacher-Student Fine-Tuning of Distilled LLMs for the Public Sector
+https://sol.sbc.org.br/index.php/wcge/article/view/36338
+
+
+What is a reasoning model?
+https://www.ibm.com/think/topics/reasoning-model
+
+
+Vision Transformer: What It Is & How It Works - Guide
+https://www.v7darwin.com/blog/vision-transformer-guide
+
+
+Vision Transformer (ViT) - Medium Example
+https://medium.com/@RobuRishabh/vision-transformer-vit-39f627d04b2a
+
+
+DINOv3 Paper Explained: The Computer Vision Foundation Model
+https://aipapersacademy.com/dinov3/
+
+
+DINOv3: Opening the Era of a “Label-Free Large Vision Backbone”
+https://medium.com/@qqqqjune/dinov3-opening-the-era-of-a-label-free-large-vision-backbone-34f1a82ba824
